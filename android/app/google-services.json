@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845247084263",
+    "project_id": "pdpaapp",
+    "storage_bucket": "pdpaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845247084263:android:eecea36123e4bdc1d41442",
+        "android_client_info": {
+          "package_name": "com.pdpaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845247084263-nb105mj70baevevnf9t0i4l38lijr25c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGUFunROChGpnMz0gitNGEgPwDaiX4QVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845247084263-nb105mj70baevevnf9t0i4l38lijr25c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
